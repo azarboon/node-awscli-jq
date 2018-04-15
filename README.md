@@ -1,3 +1,3 @@
 # node-awscli-jq
 
-test
+changed
